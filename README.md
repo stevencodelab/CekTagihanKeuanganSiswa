@@ -6,11 +6,12 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 1. Xampp Control Panel v.3.3.0.
 2. Php Version 8.1.25.
 3. MariaDB.
-4. Jquery DataTables.
-5. Sweet Alert.
-6. Admin LTE 3.2.0 (Dashboard V2).
-7. Bootstrap 5.
-8. Course (Landing Page Template).
+4. phpMyAdmin SQL Dump version 5.2.1
+5. Jquery DataTables.
+6. Sweet Alert.
+7. Admin LTE 3.2.0 (Dashboard V2).
+8. Bootstrap 5.
+9. Course (Landing Page Template).
 
 # Landing Page
 1. Home Page.
@@ -72,7 +73,6 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
    ![image](https://github.com/user-attachments/assets/c17a6016-450c-4e4e-9d24-2396808a477c)
 
    ![image](https://github.com/user-attachments/assets/606b0a04-91b8-4e05-8505-e0e2b5360f47)
-
 
 
 
