@@ -29,7 +29,7 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 5. Halaman Data Jurusan (Input Data Jurusan, Edit Data Jurusan).
 6. Halaman Data Tagihan (Input Data Tagihan, Edit Data Tagihan).
 7. Cetak Kartu Pelajar (Menggunakan Filter Kelas dan Jurusan).
-8. Generate QR Code Siswa
+8. Generate QR Code Siswa (Coming Soon)
 
 
 # Attachment
