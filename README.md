@@ -3,31 +3,32 @@ Website Sistem Informasi Pengecekan Tagihan Keuangan Siswa ini dibuat dengan tuj
 Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS dan Kelas. Website ini memiliki Landing Page dan juga Dashboard yang hanya dapat di akses oleh `admin` untuk melakukan input data mulai dari Siswa, Kelas, Jurusan, Guru dan juga Data Tagihan Siswa, sementara untuk siswa hanya dapat mengakses Landing Page untuk melihat informasi-informasi yang ada termasuk melakukan pengecekkan tagihan keuangan mereka serta dapat mendownload Kartu Tagihan Siswa.
 
 # System Requirements
-1. Xampp Control Panel v.3.3.0
-2. Php Version 8.1.25
-3. MariaDB
-4. Jquery DataTables
-5. Sweet Alert
-6. Admin LTE 3.2.0 (Dashboard V2)
-7. Bootstrap 5
-8. Course (Landing Page Template)
+1. Xampp Control Panel v.3.3.0.
+2. Php Version 8.1.25.
+3. MariaDB.
+4. Jquery DataTables.
+5. Sweet Alert.
+6. Admin LTE 3.2.0 (Dashboard V2).
+7. Bootstrap 5.
+8. Course (Landing Page Template).
 
 # Landing Page
-1. Home Page
-2. Halaman Tentang Kami
-3. Halaman Daftar Siswa (Menampilkan foto siswa yang ada di sekolah)
-4. Halaman Daftar Guru (Menampilkan foto guru di sekolah)
-5. Halaman Daftar Jurusan (Menampilkan daftar jurusan yang ada di sekolah)
-6. Halaman Contact
+1. Home Page.
+2. Halaman Tentang Kami.
+3. Halaman Daftar Siswa (Menampilkan foto siswa yang ada di sekolah).
+4. Halaman Daftar Guru (Menampilkan foto guru di sekolah).
+5. Halaman Daftar Jurusan (Menampilkan daftar jurusan yang ada di sekolah).
+6. Halaman Contact.
+7. Cetak Kartu Kendali Siswa.
 
 # Dashboard (Admin Only)
-1. Dashboard Page,
+1. Dashboard Page.
 2. Halaman Data Siswa (Input Data Siswa, Edit Data Siswa).
 3. Halaman Data Guru (Input Data Guru, Edit Data Guru).
 4. Halaman Data Kelas (Input Data Kelas, Edit Data Kelas).
 5. Halaman Data Jurusan (Input Data Jurusan, Edit Data Jurusan).
 6. Halaman Data Tagihan (Input Data Tagihan, Edit Data Tagihan).
-7. Cetak Kartu Pelajar (Coming Soon).
+7. Cetak Kartu Pelajar (Menggunakan Filter Kelas dan Jurusan).
 
 
 # Attachment
@@ -66,6 +67,12 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
    ![image](https://github.com/user-attachments/assets/e6bbd194-235b-4ed9-bd4c-26583edc8594)
    g. Data Tagihan
    ![image](https://github.com/user-attachments/assets/51c879cc-4d2a-4cbb-9e31-452828774cdb)
+   h. Cetak Kartu Pelajar
+   ![image](https://github.com/user-attachments/assets/c17a6016-450c-4e4e-9d24-2396808a477c)
+
+   ![image](https://github.com/user-attachments/assets/606b0a04-91b8-4e05-8505-e0e2b5360f47)
+
+
 
 
 
