@@ -11,7 +11,7 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 6. Sweet Alert.
 7. Admin LTE 3.2.0 (Dashboard V2).
 8. Bootstrap 5.
-9. Course (Landing Page Template).
+9. Course (Landing Page Template) `https://themewagon.com/themes/free-education-html-template-bootstrap-4-course/`.
 
 # Landing Page
 1. Home Page.
