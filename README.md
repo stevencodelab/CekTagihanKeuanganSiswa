@@ -20,7 +20,8 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 4. Halaman Daftar Guru (Menampilkan foto guru di sekolah).
 5. Halaman Daftar Jurusan (Menampilkan daftar jurusan yang ada di sekolah).
 6. Halaman Contact.
-7. Cetak Kartu Kendali Siswa.
+7. Halaman Cek Tagihan Keuangan Siswa.
+8. Cetak Kartu Kendali Siswa.
 
 # Dashboard (Admin Only)
 1. Dashboard Page.
@@ -53,7 +54,6 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 
  
   
-
 3. Admin Dashboard
    a. Login Page
    ![image](https://github.com/user-attachments/assets/9b741cb7-19b9-4677-97fa-83e372a6c5ed)
