@@ -56,9 +56,9 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
   
 3. Admin Dashboard
    a. Login Page
-   ![image](https://github.com/user-attachments/assets/9b741cb7-19b9-4677-97fa-83e372a6c5ed)
+   ![image](https://github.com/user-attachments/assets/361d4745-7875-4eb4-9929-a96ce36d7338)
    b. Dashboard Page
-   ![image](https://github.com/user-attachments/assets/0fc51b12-2c04-4a2d-9f51-061571d14466)
+   ![image](https://github.com/user-attachments/assets/56e838b5-526a-4177-a2de-03eba6294194)
    c. Data Siswa
    ![image](https://github.com/user-attachments/assets/13512470-309d-4422-8ca3-7666992f8d9a)
    d. Data Jurusan
