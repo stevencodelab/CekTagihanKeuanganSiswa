@@ -24,7 +24,7 @@ Untuk melakukan pengecekan tagihan keuangan, siswa hanya perlu menginputkan NIS 
 8. Cetak Kartu Kendali Siswa.
 
 # Dashboard (Admin Only)
-1. Dashboard Page.
+1. Dashboard Page (dengan real time dan update cuaca)
 2. Halaman Data Siswa (Input Data Siswa, Edit Data Siswa).
 3. Halaman Data Guru (Input Data Guru, Edit Data Guru).
 4. Halaman Data Kelas (Input Data Kelas, Edit Data Kelas).
